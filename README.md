@@ -1,8 +1,5 @@
 # tomtom
-# ReadME
-# Author - Vishesh
-
-Project Name - E-commerce
+# Project Name - E-commerce
 
 Spring Boot Class -  EcommerceApplication
 
